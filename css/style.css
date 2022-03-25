@@ -1,0 +1,20 @@
+/* Created by: PJ Lobetti
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-04-HTML-AreaPer-UserInput
+*/
+
+body {
+	background-color: grey;
+}
+
+h1 {
+	background-color: rgb(104, 84, 182);
+	color: hsl(181, 75%, 45%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #aedbea;
+}
